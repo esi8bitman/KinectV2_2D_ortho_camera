@@ -1,2 +1,4 @@
-# KinectV2_2D_ortho_camera
-Use Kinect V2 with ortho camera in Unity Template
+# Unity KinectV2 with ortho camera
+
+Template of Kinect V2 with ortho camera in Unity
+it just about function for change body nodes postions to world position!
